@@ -1,0 +1,14 @@
+{
+  "name": "apply-tracker-be",
+  "version": "1.0.0",
+  "description": "Back end server for the Application Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Daniel Castaneda",
+  "license": "ISC"
+}
